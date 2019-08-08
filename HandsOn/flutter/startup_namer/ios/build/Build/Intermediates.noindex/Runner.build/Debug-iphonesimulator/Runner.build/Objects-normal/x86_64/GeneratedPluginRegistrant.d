@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/sreekanth/Documents/HandsOn/flutter/startup_namer/ios/Flutter/Flutter.framework/Headers/Flutter.h
